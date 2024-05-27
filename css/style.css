@@ -17,3 +17,25 @@
 /* Colores */
 
 /* ******************************** */
+
+header{
+  display: flex;
+  flex-direction: column;
+}
+
+.basic{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.info{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+
+  & .info__texto{
+    grid-column: 3/4;
+  }
+
+}
+

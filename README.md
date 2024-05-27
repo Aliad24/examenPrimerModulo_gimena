@@ -65,3 +65,7 @@ Este archivo contiene un mapa del sitio web, que ayuda a los motores de búsqued
 #### assets
 
 Es la carpeta donde se guardan los archivos originales del proyecto o archivos complementarios al proyecto.
+
+#### figma
+
+https://www.figma.com/design/NBXRyiLehHfqDrJYn1UF0V/examenPrimerModulo_gimena?node-id=0-1&t=8PjJfCyL0XnxPI2a-1
